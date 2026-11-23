@@ -17,7 +17,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on JavaScript
+- 🔭 I’m currently working on FrontEnd development
 
 - 🌱 I’m currently learning JavaScript, SQL, Python, C++
 
